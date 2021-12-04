@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am Aditya C B.*
+__I am a Computer Science and Engineering Student at College of Engineering,Aranmula__
